@@ -1,34 +1,34 @@
 url: "hanchaozhang.xyz "
 # baseurl: /Hanchao-Zhang.github.io
 # Basic Information 
-title: Hanchao Zhang
+title: Zhihao Guo
 # subtitle:
-position: Ph.D. Candidate
+position: M. Sc. in Resources and Environment
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine  
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+affiliation: Central South University
+subaffiliation: School of Minerals Processing and Bioengineering
+affiliation_link: https://www.csu.edu.cn/
+subaffiliation_link: https://mpb.csu.edu.cn/
+email: 215612096@csu.edu.cn
+address: 932 South Lushan Road, Changsha City, Hunan Province, China.
+#address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
 
 
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Welcome to my homepage
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+google_scholar: https://scholar.google.com.hk/citations?user=ODIHPX8AAAAJ&hl=zh-CN
+cv_link: assets/files/ZhihaoGuoCV.pdf
+#github_link: https://github.com/Hanchao-Zhang
+#linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
+#twitter: https://twitter.com/tedddddy_zhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
