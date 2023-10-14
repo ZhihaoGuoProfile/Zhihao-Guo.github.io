@@ -12,9 +12,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a>[Interaction mechanism of 2-hydroxy-3-naphthyl hydroxamic acid and 1-hydroxy-2-naphthyl hydroxamic acid in the flotation separation of bastnaesite/fluorite: Experiments and first-principles calculations.](https://doi.org/10.1016/j.seppur.2021.120307)</a></div>
-    <div class="author"><strong>Zhihao Guo</strong></div>
-    <div class="periodical"><em>Sep. Purif. Technol., Dec. 2022.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
+    <div class="author"><strong>Hanchao Zhang</strong></div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
