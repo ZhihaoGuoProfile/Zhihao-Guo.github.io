@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Zhihao Guo([215612096@csu.edu.cn](mailto:215612096@csu.edu.cn)), a motivated and dedicated student currently pursuing a Master's degree in Resources and Environment at [Central South University](https://www.csu.edu.cn/) under the guidance of [Prof. Mengjie Tian](https://faculty.csu.edu.cn/tianmengjie/zh_CN/index.htm). My academic journey has been shaped by a strong focus on mineral processing and environmental resource management.
+I am Zhihao Guo([zhihao.guo@csu.edu.cn](mailto:zhihao.guo@csu.edu.cn)), a motivated and dedicated student currently pursuing a Master's degree in Resources and Environment at [Central South University](https://www.csu.edu.cn/) under the guidance of [Prof. Mengjie Tian](https://faculty.csu.edu.cn/tianmengjie/zh_CN/index.htm). My academic journey has been shaped by a strong focus on mineral processing and environmental resource management.
 
 In my ongoing Master's program, I have been immersed in a dynamic academic environment, exploring subjects such as Flotation Interface Chemistry, Advancements in Mineral Processing, Advanced Research Techniques in Contemporary Resource Processing, and the Application of Computational Chemistry and Fluid Dynamics in Mineral Processing Simulation. These courses have not only deepened my understanding of mineral processing but have also provided me with the tools to tackle contemporary resource processing challenges.
 
