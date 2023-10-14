@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Interaction mechanism of 2-hydroxy-3-naphthyl hydroxamic acid and 1-hydroxy-2-naphthyl hydroxamic acid in the flotation separation of bastnaesite/fluorite: Experiments and first-principles calculations.</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong></div>
+    <div class="author"><strong>Zhihao Guo</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
