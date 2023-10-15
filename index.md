@@ -8,11 +8,11 @@ I am Zhihao Guo([zhihao.guo@csu.edu.cn](mailto:zhihao.guo@csu.edu.cn)), a motiva
 
 In my ongoing Master's program, I have been immersed in a dynamic academic environment, exploring subjects such as Flotation Interface Chemistry, Advancements in Mineral Processing, Advanced Research Techniques in Contemporary Resource Processing, and the Application of Computational Chemistry and Fluid Dynamics in Mineral Processing Simulation. These courses have not only deepened my understanding of mineral processing but have also provided me with the tools to tackle contemporary resource processing challenges.
 
-My educational foundation was built during my Bachelor's degree in Mineral Processing Engineering at [Wuhan Institute of Technology](http://www.wit.edu.cn/index.htm). The curriculum included essential subjects like Organic Chemistry, Analytical Chemistry, Physical Chemistry, Principle and Application of Flotation Reagent, and Mineralogy and Petrology. These studies have equipped me with a comprehensive knowledge base to address mineral processing challenges effectively.
+My educational foundation was built during my Bachelor's degree in Mineral Processing Engineering at [Wuhan Institute of Technology](http://www.wit.edu.cn/index.htm). The curriculum included essential subjects like Organic Chemistry, Analytical Chemistry, Physical Chemistry, Principle and Application of Flotation Reagents, and Mineralogy and Petrology. These studies have equipped me with a comprehensive knowledge base to address mineral processing challenges effectively.
 
 My academic journey has fueled my passion for making a positive impact in the field of mineral processing and environmental resource management. I am excited to continue exploring this field, conducting meaningful research, and applying my knowledge to real-world problems. I am confident that my dedication and educational background will enable me to contribute effectively to the academic and industrial spheres in my chosen field.
 
-Should you have any questions or opportunities for collaboration, please do not hesitate to contact me at [215612096@csu.edu.cn](mailto:215612096@csu.edu.cn)
+Should you have any questions or opportunities for collaboration, please do not hesitate to contact me at [zhihao.guo@csu.edu.cn](mailto:zhihao.guo@csu.edu.cn)
 
 ## Research Interests
 - **Surfactant:** Design and synthesis of flotation collectors
