@@ -22,8 +22,6 @@ Should you have any questions or opportunities for collaboration, please do not 
 ## Current Researches
 My current research primarily revolves around the modification of oleic acid (OA) as a flotation collector. While oleic acid is a commonly used flotation reagent, it presents limitations such as poor selectivity and low solubility at low temperatures, which have restricted its application. Our objective is to improve its flotation performance by altering its chemical structure. Our primary research methodology involves utilizing first-principle calculations to identify the optimal structural modifications for OA and subsequently validating these modifications through experimental techniques.
 
-![Scheme Image](./assets/img/currentresearch.jpg)
-
 ## Awards
 - **[Oct. 2023]** National Scholarship
 - **[Oct. 2023]** First-Class Academic Scholarship
